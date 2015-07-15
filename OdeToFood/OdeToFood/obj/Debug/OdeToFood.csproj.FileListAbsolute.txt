@@ -52,3 +52,4 @@ D:\PROJECTS\OdeToFood\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.Twitter.xm
 D:\PROJECTS\OdeToFood\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 D:\PROJECTS\OdeToFood\OdeToFood\OdeToFood\obj\Debug\OdeToFood.dll
 D:\PROJECTS\OdeToFood\OdeToFood\OdeToFood\obj\Debug\OdeToFood.pdb
+D:\PROJECTS\OdeToFood\OdeToFood\OdeToFood\obj\Debug\OdeToFood.csprojResolveAssemblyReference.cache
